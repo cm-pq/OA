@@ -17,4 +17,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:10086/eureka,http://localhost:10087/eureka
 ProviderVersion:
-  UserProvider001:Upate
+  UserProvider001:UpateNew
